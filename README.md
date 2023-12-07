@@ -75,10 +75,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Linkedin: https://www.linkedin.com/in/leandrochinelli-datadriven
-
-Github: https://github.com/LeandroChinelli
-
+<div align="left">
+    <a href="https://www.linkedin.com/in/leandrochinelli-datadriven" target="_blank"> 
+        <img  alt="linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    <a href="https://github.com/LeandroChinelli" target="_blank"> 
+        <img  alt="linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
@@ -87,7 +89,7 @@ Github: https://github.com/LeandroChinelli
 [APACHE_SUPERSET]:https://img.shields.io/badge/Apache_Superset-03BB85?style=for-the-badge&logo=Apache
 [PYTHON]:https://img.shields.io/badge/%20-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white
 [PANDAS]:https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=Pandas&logoColor=white
-[DOCKER]:https://img.shields.io/badge/%20-docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white
+[DOCKER]:https://img.shields.io/badge/%20-docker-0db7ed?style=for-the-badge&logo=Docker&logoColor=white       
 
 <!-- LINKS -->
 [APACHE_SPARK_URL]:https://spark.apache.org/
@@ -95,3 +97,5 @@ Github: https://github.com/LeandroChinelli
 [PYTHON_URL]:https://www.python.org/
 [PANDAS_URL]:https://pandas.pydata.org/
 [DOCKER_URL]:https://www.docker.com/
+[LINKEDIN_URL]:https://www.linkedin.com/in/leandrochinelli-datadriven
+[GITHUB_URL]:https://github.com/LeandroChinelli
