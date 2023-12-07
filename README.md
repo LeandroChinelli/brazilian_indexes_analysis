@@ -36,7 +36,7 @@ Please note that this application was developed in a Linux environment.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/LeandroChinelli/brazilian_indexes_analysis.git
    ```
 2. Set up the Spark Cluster with 3 worker nodes
    ```sh
@@ -75,9 +75,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Linkedin: https://www.linkedin.com/in/leandrochinelli-datadriven
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Github: https://github.com/LeandroChinelli
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
